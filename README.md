@@ -4,7 +4,7 @@ If you report issue of bug, I'd appreciate if you could tell me the following in
 
 - App version
 - Your Environment(Mac/Win, and it's version)
-- Steps of repoduce if you possible
+- Steps of reproduce if you possible
 
 # Sudachi Road Map
 Now making...
