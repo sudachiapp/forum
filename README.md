@@ -7,4 +7,4 @@ When you report a bug, I'd appreciate if you could tell me the following informa
 - Steps of reproduce if you possible
 
 # Sudachi Road Map
-Now making...
+https://medium.com/sudachi/sudachi-next-roadmap-90cf9578d15b
